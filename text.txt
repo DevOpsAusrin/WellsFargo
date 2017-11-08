@@ -1,3 +1,9 @@
 Hi How are yo
 hfkjerfgheu
+<<<<<<< HEAD
 gfdfhkfhkhd
+=======
+vfgdjhsdbfjsdhgfk
+vfsdbfjsdbnknsd
+bfksdnfkdvfndlmk
+>>>>>>> 83f418ee433724ee3811a984d7faf50423611504
